@@ -19,8 +19,10 @@ De kern van dit project draait om twee hoofdklassen:
 Het hoofddoel van dit project is om te oefenen met het opzetten en gebruiken van klassen en objecten in C#. 
 
 ## Jouw feedback kan mij verder op weg helpen! 🌟
+![Schermafbeelding 2025-06-02 181233](https://github.com/user-attachments/assets/ed1ae71a-cf19-4ee6-a81f-19a839898c4a)![Uploading Schermafbeelding 2025-06-02 181233.png…]()
 
-Ik ben nog volop aan het leren en zou het supertof vinden als je even wilt meekijken! Jouw frisse blik en ideeën kunnen enorm helpen.
+
+Ik ben C# nog aan het leren en zou het top vinden als je even wilt meekijken! 
 
 **Waar denk jij aan?**
 * 🤔 Wat kan er beter aan de structuur van de klassen `Gast` en `Bestelling`?
