@@ -3,14 +3,14 @@
 # 🍽️ Klassen Bestelling Gasten 🧑‍💻
 
 Hoi👋, Welkom bij mijn project `Klassen_Bestelling_Gasten`.
-Dit is een klein C# console project dat ik heb gemaakt als onderdeel van "Opdracht 2 - Klassen & Objecten" voor Software Engineering. Het idee is om een systeem te modelleren voor bestellingen die via een tablet in een restaurant worden geplaatst, waarbij de gasten in het restaurant zelf eten. Spannend, toch? 🤓
+Dit is een klein C# console project dat ik heb gemaakt als onderdeel van "Opdracht 2 - Klassen & Objecten" voor Software Engineering. Het idee is om een systeem te modelleren voor bestellingen die via een tablet in een restaurant worden geplaatst (en natuurlijk ook opeten 😉).
 
 ## Wat zit erin? 📦
 
 De kern van dit project draait om twee hoofdklassen:
 
 * **`Gast` klasse 🧍**: Representeert een gast in het restaurant.
-    * Denk aan eigenschappen zoals een gast-ID of een naam (vooral als er een loyaliteitssysteem is).
+    * Denk aan eigenschappen zoals een gast-ID of een naam.
 * **`Bestelling` klasse 📝**: Representeert een bestelling die via een tablet is gedaan.
     * Hier vind je details zoals `Tafelnummer`, `BestelMoment`, een `Omschrijving` van wat besteld is, het `TotaalBedrag` en de `Status` van de bestelling (bijv. "Opgenomen", "In de keuken", "Geserveerd").
 
