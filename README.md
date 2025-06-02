@@ -16,7 +16,7 @@ De kern van dit project draait om twee hoofdklassen:
 
 ## Het doel 🎯
 
-Het hoofddoel van dit project is om te oefenen met het opzetten en gebruiken van klassen en objecten in C#. Ik leer hoe ik de "echte wereld" (of in ieder geval een klein stukje ervan 😉) kan vertalen naar code!
+Het hoofddoel van dit project is om te oefenen met het opzetten en gebruiken van klassen en objecten in C#. 
 
 ## Jouw feedback kan mij verder op weg helpen! 🌟
 
