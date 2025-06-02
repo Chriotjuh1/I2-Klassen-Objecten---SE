@@ -4,7 +4,9 @@ namespace Klassen_Bestelling_Gasten.Model
     {
         public int BestelNummer;
         public DateOnly BestelDatum;
+        public TimeOnly BestelTijd;
         public string Omschrijving;
         public decimal TotaalBedrag;
+      
     }
 }
