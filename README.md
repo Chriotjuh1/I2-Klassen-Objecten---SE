@@ -35,6 +35,4 @@ Laat het me weten!
 
 ## Dankjewel!
 
-Bedankt voor het kijken en voor alle eventuele tips & tricks!
-
-Happy coding! 💻✨
+Thanks voor je tijd! 
