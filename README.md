@@ -29,10 +29,8 @@ Ik ben nog volop aan het leren en zou het supertof vinden als je even wilt meeki
 * 🚀 Heb je andere coole ideeën of suggesties voor dit scenario?
 * 🐛 Zie je misschien iets wat niet helemaal klopt?
 
-## Hoe geef je feedback? 📬
+## Heb je feedback? 📬
 
 Laat het me weten!
 
-## Dankjewel!
-
-Thanks voor je tijd! 
+## Thanks voor je tijd! 
