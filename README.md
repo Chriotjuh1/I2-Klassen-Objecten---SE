@@ -1,4 +1,4 @@
-# 🍽️ Klassen Bestelling Gasten 🧑‍💻
+# 🍽️ Klassen & Objecten - Bestelling Gasten 🧑‍💻
 
 Hoi👋, Welkom bij mijn project `Klassen_Bestelling_Gasten`.
 Dit is een klein C# console project dat ik heb gemaakt als onderdeel van "Opdracht 2 - Klassen & Objecten" voor Software Engineering. Het idee is om een systeem te modelleren voor bestellingen die via een tablet in een restaurant worden geplaatst (en natuurlijk ook opeten 😉).
