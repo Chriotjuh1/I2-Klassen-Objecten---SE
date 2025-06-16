@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\joost\\Documents\\ZUYD\\Create\\Iteratie 2\\Uitwerking - Vakken\\Software Engineering\\Iteratie_2_Opdracht_Klassen\\I2-Klassen-Objecten---SE\\Klassen_Bestelling_Gasten\\Klassen_Bestelling_Gasten.csproj": {}
+    "C:\\Users\\joost\\Documents\\ZUYD\\Create\\Iteratie 3\\Uitwerking - Vakken\\Software Engineering\\Iteratie_3_Opdracht_Klassen\\I2-Klassen-Objecten---SE\\Klassen_Bestelling_Gasten\\Klassen_Bestelling_Gasten.csproj": {}
   },
   "projects": {
-    "C:\\Users\\joost\\Documents\\ZUYD\\Create\\Iteratie 2\\Uitwerking - Vakken\\Software Engineering\\Iteratie_2_Opdracht_Klassen\\I2-Klassen-Objecten---SE\\Klassen_Bestelling_Gasten\\Klassen_Bestelling_Gasten.csproj": {
+    "C:\\Users\\joost\\Documents\\ZUYD\\Create\\Iteratie 3\\Uitwerking - Vakken\\Software Engineering\\Iteratie_3_Opdracht_Klassen\\I2-Klassen-Objecten---SE\\Klassen_Bestelling_Gasten\\Klassen_Bestelling_Gasten.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joost\\Documents\\ZUYD\\Create\\Iteratie 2\\Uitwerking - Vakken\\Software Engineering\\Iteratie_2_Opdracht_Klassen\\I2-Klassen-Objecten---SE\\Klassen_Bestelling_Gasten\\Klassen_Bestelling_Gasten.csproj",
+        "projectUniqueName": "C:\\Users\\joost\\Documents\\ZUYD\\Create\\Iteratie 3\\Uitwerking - Vakken\\Software Engineering\\Iteratie_3_Opdracht_Klassen\\I2-Klassen-Objecten---SE\\Klassen_Bestelling_Gasten\\Klassen_Bestelling_Gasten.csproj",
         "projectName": "Klassen_Bestelling_Gasten",
-        "projectPath": "C:\\Users\\joost\\Documents\\ZUYD\\Create\\Iteratie 2\\Uitwerking - Vakken\\Software Engineering\\Iteratie_2_Opdracht_Klassen\\I2-Klassen-Objecten---SE\\Klassen_Bestelling_Gasten\\Klassen_Bestelling_Gasten.csproj",
+        "projectPath": "C:\\Users\\joost\\Documents\\ZUYD\\Create\\Iteratie 3\\Uitwerking - Vakken\\Software Engineering\\Iteratie_3_Opdracht_Klassen\\I2-Klassen-Objecten---SE\\Klassen_Bestelling_Gasten\\Klassen_Bestelling_Gasten.csproj",
         "packagesPath": "C:\\Users\\joost\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joost\\Documents\\ZUYD\\Create\\Iteratie 2\\Uitwerking - Vakken\\Software Engineering\\Iteratie_2_Opdracht_Klassen\\I2-Klassen-Objecten---SE\\Klassen_Bestelling_Gasten\\obj\\",
+        "outputPath": "C:\\Users\\joost\\Documents\\ZUYD\\Create\\Iteratie 3\\Uitwerking - Vakken\\Software Engineering\\Iteratie_3_Opdracht_Klassen\\I2-Klassen-Objecten---SE\\Klassen_Bestelling_Gasten\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\joost\\AppData\\Roaming\\NuGet\\NuGet.Config"

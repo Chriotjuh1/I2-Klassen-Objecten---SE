@@ -1,0 +1,42 @@
+@startuml
+
+
+' Titel van het diagram
+title Klassendiagram met Inkapseling
+
+' Klasse voor Gast
+class Gast {
+  ' Private velden voor dataopslag
+  - _gastID: int
+  - _naam: string
+  - _telefoonnummer: string
+  --
+  ' Public properties voor gecontroleerde toegang
+  + GastID: int {get; set;}
+  + Naam: string {get; set;}
+  + Telefoonnummer: string {get; set;}
+  + Bestellingen: List<Bestelling> {get; set;}
+}
+
+' Klasse voor Bestelling
+class Bestelling {
+  ' Private velden
+  - _bestelNummer: int
+  - _bestelDatum: DateOnly
+  - _bestelTijd: TimeOnly
+  - _omschrijving: string
+  - _totaalBedrag: decimal
+  --
+  ' Public properties
+  + BestelNummer: int {get; set;}
+  + BestelDatum: DateOnly {get; set;}
+  + BestelTijd: TimeOnly {get; set;}
+  + Omschrijving: string {get; set;}
+  + TotaalBedrag: decimal {get; set;}
+  + Gast: Gast {get; set;}
+}
+
+' Relatie tussen Gast en Bestelling
+Gast "1" -- "0..*" Bestelling : heeft >
+
+@enduml

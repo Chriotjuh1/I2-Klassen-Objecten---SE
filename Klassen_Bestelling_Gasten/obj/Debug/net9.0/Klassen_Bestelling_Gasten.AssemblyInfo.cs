@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Klassen_Bestelling_Gasten")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b773d82bf01de9b9383c14a5350ada79bab9ae1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7265788c796b01e031b5c91b807c28f923c0facc")]
 [assembly: System.Reflection.AssemblyProductAttribute("Klassen_Bestelling_Gasten")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Klassen_Bestelling_Gasten")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

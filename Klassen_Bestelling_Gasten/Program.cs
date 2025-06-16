@@ -6,19 +6,27 @@ namespace Klassen_Bestelling_Gasten
     {
         static void Main(string[] args)
         {
-            Gast gast1 = new Gast();
-            gast1.GastID = 1;
-            gast1.Naam = "Chris Joosten";
+            Gast gast1 = new Gast
+            {
+                GastID = 1,
+                Naam = "Chris Joosten"
+            };
+            Bestelling bestelling1 = new Bestelling
+            {
+                BestelNummer = 1,
+                BestelDatum = new DateOnly(2025, 12, 8),
+                BestelTijd = new TimeOnly(17, 38, 05),
+                Omschrijving = "Hamburger"
+            };
 
-            Console.WriteLine($"Naam: {gast1.Naam}");
+            bestelling1.Gast = gast1;
 
-            Bestelling bestelling1 = new Bestelling();
-            bestelling1.BestelNummer = 1;
-            bestelling1.BestelDatum = new DateOnly(2025, 12, 8); // (Jaar-Maand-Dag)
-            bestelling1.BestelTijd = new TimeOnly(17, 38, 05);
-            bestelling1.Omschrijving = "Hamburger";
+            gast1.Bestellingen.Add(bestelling1);
 
-            Console.WriteLine($"Besteld gerecht: {bestelling1.Omschrijving}, op {bestelling1.BestelDatum}, om {bestelling1.BestelTijd}.");
+
+            Console.WriteLine($"Gast: {gast1.Naam} (ID: {gast1.GastID})");
+            Console.WriteLine($"Bestelling voor {bestelling1.Gast.Naam}:");
+            Console.WriteLine($"- {bestelling1.Omschrijving} (Bestelnummer: {bestelling1.BestelNummer})");
         }
     }
 }
